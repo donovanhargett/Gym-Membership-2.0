@@ -1,5 +1,11 @@
 # Gym-Membership-2.0
 An interactive windows forms application that works as a functioning Gym membership management system
+
+The user must first login:
+  username: admin
+  password: 1234
+  
+
 The user can:
 1. Add New Members
 2. Add New Staff Members
